@@ -1,5 +1,10 @@
 package edu.cnm.deepdive;
 
+/*Asher Bearce
+Austin DeWitt
+Anita Martin
+ */
+
 public class Sum {
   public static void main(String[] args){
     int sum = 0;
